@@ -6,6 +6,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Projeto online
+
+https://codewings-crud-react.vercel.app
+
+# Codewings - Cadastro de Usuários
+
+! [React](https://img.shilds.io/badge/React-18-blue)
+! [JavaScript](https://img.shilds.io/badge/JavaScript-ES6-yellow)
+! [Status](https://img.shilds.io/badge/status-concluido.green)
+
 ## Interface do Sistema
 
 ![CodeWings](images/codewings.png)
