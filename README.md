@@ -75,6 +75,22 @@ Durante esse projeto aprendi:
 - Deploy de aplicações web
 
 ---
+## 📁 Estrutura do projeto
+
+Logo abaixo coloque:
+
+codewings-crud-react
+ ├ public
+ ├ src
+ │  ├ components
+ │  ├ App.js
+ │  ├ index.js
+ │  └ style.css
+ ├ images
+ │  ├ codewings.png
+ │  └ codewings.gif
+ ├ package.json
+ └ README.md
 
 ## 📦 Como executar o projeto
 
