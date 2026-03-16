@@ -6,11 +6,7 @@ Aplicação desenvolvida em React para gerenciamento de usuários com funcionali
 
 ---
 
-## 🌐 Projeto online
 
-https://codewings-crud-react.vercel.app
-
----
 
 ![React](https://img.shields.io/badge/React-18-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
