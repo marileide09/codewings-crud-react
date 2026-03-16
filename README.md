@@ -1,5 +1,7 @@
 # CodeWings - Sistema de Cadastro de Usuários
 
+[![Abrir Projeto](https://img.shields.io/badge/Abrir%20Projeto-Online-green?style=for-the-badge)](https://codewings-crud-react.vercel.app)
+
 Aplicação desenvolvida em React para gerenciamento de usuários com funcionalidades completas de CRUD.
 
 ---
