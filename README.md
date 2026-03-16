@@ -18,7 +18,7 @@ https://codewings-crud-react.vercel.app
 
 ## 📷 Interface do Sistema
 
-![CodeWings](images/codewings.gif)
+![CodeWings](images/Codewings.gif)
 
 ---
 
